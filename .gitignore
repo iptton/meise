@@ -1,1 +1,3 @@
 meise-qt-client/ancamera.app
+meise-qt-client/main.o
+meise-qt-client/moc_mainwindow.o
